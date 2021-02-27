@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_folder_name">Enter folder name</string>
+    <string name="add_new_folder">Add New Folder</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="move">Move</string>
+</resources>
